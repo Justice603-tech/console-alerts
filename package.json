@@ -1,0 +1,22 @@
+{
+  "name": "consolealerts",
+  "version": "1.0.0",
+  "description": "Send Alerts to consoles in a notification styled box. all in your Console",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alert",
+    "console",
+    "notify"
+  ],
+  "author": "Justice",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^7.0.2",
+    "chalk": "^5.2.0",
+    "inquirer": "^9.1.5"
+  }
+}
